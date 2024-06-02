@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Aliyah Stephens! 👋
 
-<!--
-**aliyahlstephens/aliyahlstephens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Aliyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyahlstephens&show_icons=true&theme=cobalt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/aliyahstephens)
+- [X](https://x.com/madamegroove)
+- [Personal Website](https://manhattanmobrecords.square.site)
+
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,java,ruby)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=angular,bootstrap,css,express,html,react)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,azure,django,docker,flask)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=bitbucket,firebase,mysql,mongodb)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=ableton,blender,discord,git,github,linux,markdown,nodejs,npm,vscode,githubactions,gitlab,ubuntu)
