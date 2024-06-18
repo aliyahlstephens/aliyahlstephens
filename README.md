@@ -3,7 +3,9 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![Aliyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyahlstephens&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api?username=aliyahlstephens&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliyahlstephens&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyahlstephens&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aliyahstephens)
