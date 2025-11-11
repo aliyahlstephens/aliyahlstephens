@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🌟
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/aliyahstephens)
 - [X](https://x.com/madamegroove)
-- [Personal Website](https://www.w3profile.com/aliyahlstephens)
+- [Personal Website](https://stephenstech.dev)
 
 ## Skills
 
