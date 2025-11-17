@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! 🌟
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aliyahlstephens&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliyahlstephens&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliyahlstephens&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
